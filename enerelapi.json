@@ -35,10 +35,10 @@
         "description": "berrie, strawberrie, blueberrie, Greek yogurt, milk, honey",
         "price": "15.000₮"
     },
-{
+    {
         "id": 7,
-        "name": "15.000₮",
+        "name": "Smoothie",
         "description": "banana, almondm milk, peanut butter, cocoa powder, vanilla",
-        "price": "$18.00"
+        "price": "15.000₮"
     },
 ]
