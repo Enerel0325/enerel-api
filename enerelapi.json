@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Fresh Fruits Smoothie",
+        "description": "banana, peach, strawberrie, coconut, water, Greek yogurt, cup ice",
+        "price": "15.000₮"
+    }, 
+    {
+        "id": 2,
+        "name": "Frozen Fest",
+        "description": "berries, pineapple, mango, peach, orange juice, Greek yogurt ",
+        "price": "15.000₮"
+    },
+    {
+        "id": 3,
+        "name": "Frozen Strawberries",
+        "description": "strawberrie, Greek yogurt, milk, honey ",
+        "price": "15.000₮"
+    },
+    {
+        "id": 4,
+        "name": "Green Ginger",
+        "description": "fresh spinach, fresh turmeric, banana, pineapple, almond milk, lemon juice ",
+        "price": "15.000₮"
+    },
+    {
+        "id": 5,
+        "name": "Berry Boost",
+        "description": "berrie, strawberrie, blueberrie, Greek yogurt, milk, honey",
+        "price": "15.000₮"
+    },
+    {
+        "id": 6,
+        "name": "Essence of Smooth",
+        "description": "berrie, strawberrie, blueberrie, Greek yogurt, milk, honey",
+        "price": "15.000₮"
+    },
+{
+        "id": 7,
+        "name": "15.000₮",
+        "description": "banana, almondm milk, peanut butter, cocoa powder, vanilla",
+        "price": "$18.00"
+    },
+]
